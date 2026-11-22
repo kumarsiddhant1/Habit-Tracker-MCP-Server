@@ -1,0 +1,55 @@
+{
+  "reading": [
+    "book",
+    "article",
+    "newspaper",
+    "documentation",
+    "audiobook"
+  ],
+  "walking": [
+    "morning walk",
+    "evening walk",
+    "brisk walk",
+    "post-meal walk",
+    "step count"
+  ],
+  "workout": [
+    "strength training",
+    "cardio",
+    "yoga",
+    "stretching",
+    "hiit"
+  ],
+  "learning": [
+    "coding practice",
+    "online course",
+    "reading research",
+    "language practice",
+    "project work"
+  ],
+  "mindfulness": [
+    "meditation",
+    "journaling",
+    "breathing exercises",
+    "gratitude"
+  ],
+  "nutrition": [
+    "water intake",
+    "high-protein meal",
+    "calorie tracking",
+    "home-cooked meal",
+    "no sugar"
+  ],
+  "sleep": [
+    "sleep on time",
+    "wake up early",
+    "no screens before bed",
+    "power nap"
+  ],
+  "writing": [
+    "journal",
+    "poetry",
+    "blog post",
+    "notes"
+  ]
+}
